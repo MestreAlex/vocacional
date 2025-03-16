@@ -1,0 +1,252 @@
+1. Ciências Agrárias
+Essa área do conhecimento está relacionada aos estudos do manejo, preservação e aprimoramento do uso de recursos naturais. 
+
+Agronomia 
+Biotecnologia
+Ecologia 
+Engenharia Ambiental
+Engenharia de Pesca
+Engenharia Hídrica
+Gestão Ambiental
+Geologia 
+Oceanografia 
+Engenharia Agrícola 
+Engenharia de Energia 
+Engenharia Florestal 
+Medicina Veterinária
+Meteorologia
+Zootecnia 
+Engenharia de Aquicultura
+Gestão de Recursos Hídricos
+Agronegócio e Agroindústria
+Tecnologia de Alimentos
+Permacultura
+
+2. Ciências Biológicas
+É o campo que estuda a vida e os organismos vivos, desde microrganismos até ecossistemas.  
+
+Bioquímica
+Biofísica
+Biomedicina
+Ciências Biológicas
+Bioinformática
+Biotecnologia Industrial
+Biologia Marinha
+Genética e Melhoramento Genético
+Biologia Forense
+
+3. Ciências da Saúde
+A área das ciências da saúde é similar às ciências biológicas, mas com uma ênfase maior nos estudos de doenças, saúde e bem-estar. Ou seja, um pouco mais aplicada do que a citada anteriormente. 
+
+Educação Física
+Enfermagem
+Estética
+Farmácia
+Fisioterapia
+Fonoaudiologia
+Gerontologia
+Medicina
+Musicoterapia
+Nutrição
+Obstetrícia
+Odontologia
+Quiropraxia
+Radiologia
+Saúde Coletiva
+Terapia Ocupacional
+Biomedicina Estética
+Gerontologia Clínica
+Saúde Digital (Telemedicina)
+Genética Médica
+Psicologia Clínica
+
+4. Ciências Exatas e da Terra
+É a área do conhecimento que tem como base o uso de cálculos e do raciocínio lógico para a resolução de problemas.  
+
+Análise e Desenvolvimento de Sistemas
+Astronomia
+Ciência da Computação
+Estatística
+Física
+Geofísica
+Geologia
+Informática Biomédica
+Matemática
+Meteorologia
+Nanotecnologia
+Oceanografia
+Química
+Sistemas de Informação
+Ciência de Dados
+Inteligência Artificial
+Cibersegurança
+Geoprocessamento
+Astrobiologia
+
+5. Engenharias
+É similar às Ciências Exatas e da Terra, mas a principal diferença é ser uma área muito mais aplicável. Nas engenharias o foco principal é a construção, manutenção e melhorias de diferentes objetos, estruturas, processos etc.  
+
+Engenharia Aeronáutica
+Engenharia Agrícola
+Engenharia Agronômica
+Engenharia de Agrimensura e Cartográfica
+Engenharia de Alimentos
+Engenharia Ambiental e Sanitária
+Engenharia Biomédica
+Engenharia de Bioprocessos
+Engenharia Civil
+Engenharia de Computação
+Engenharia de Controle e Automação
+Engenharia Elétrica
+Engenharia Eletrônica
+Engenharia de Energia
+Engenharia Florestal
+Engenharia de Fortificação e Construção
+Engenharia Mecânica
+Engenharia Mecânica e de Armamento
+Engenharia de Materiais
+Engenharia de Minas
+Engenharia Metalúrgica
+Engenharia Naval
+Engenharia de Pesca
+Engenharia de Produção
+Engenharia de Petróleo
+Engenharia Química
+Engenharia de Software
+Engenharia de Telecomunicações
+Engenharia de Drones
+Engenharia de Robótica
+Engenharia de Sustentabilidade
+Engenharia Espacial
+Engenharia de Inteligência Artificial
+
+6. Ciências Humanas
+As Ciências Humanas tem como foco principal de estudo o ser humano e suas interações com o mundo. 
+
+Antropologia
+Arqueologia
+Ciência Política
+Filosofia
+Geografia
+História
+Psicologia
+Sociologia
+Teologia
+Psicopedagogia
+Neurociência Cognitiva
+Filosofia Política
+Arqueologia Subaquática
+História da Ciência
+
+7. Ciências Sociais Aplicadas
+Se concentra no estudo da sociedade como um todo e não somente dos indivíduos. 
+
+Administração
+Recursos Humanos
+Arquivologia
+Arquitetura e Urbanismo
+Biblioteconomia
+Ciências Contábeis
+Direito
+Economia
+Educomunicação
+Eventos 
+Jornalismo
+Museologia
+Pedagogia 
+Produção Cultural
+Produção Editorial
+Produção Multimídia
+Publicidade e Propaganda
+Rádio e TV
+Relações Internacionais
+Relações Públicas
+Secretariado
+Serviço Social
+Turismo
+Marketing Digital
+Gestão de Projetos
+Compliance e Governança
+Empreendedorismo Social
+Políticas Públicas
+
+8. Linguística, Letras e Artes
+É o campo de conhecimento que se dedica ao estudo de diferentes tipos de linguagens, expressões artísticas e comunicação. 
+
+Artes Cênicas
+Artes Plásticas
+Cinema
+Dança
+Design
+Design de Games
+Design Gráfico
+Design de Moda
+Design de Interiores
+Design de Produto 
+Fotografia
+História da Arte
+Linguística
+Letras
+Moda
+Música
+Teatro
+Tradução e Interpretação
+Design de UX/UI
+Produção Audiovisual
+Curadoria Digital
+Escrita Criativa
+Artes Digitais
+
+9. Tecnologia e Inovação
+Área dedicada ao desenvolvimento tecnológico, inovação e soluções digitais.
+
+Desenvolvedor Full Stack
+Especialista em Blockchain
+Engenheiro de Machine Learning
+Analista de Big Data
+Product Manager
+Especialista em Realidade Virtual/Aumentada
+
+10. Meio Ambiente e Sustentabilidade
+Foco em preservação ambiental, energias renováveis e práticas sustentáveis.
+
+Gestor de Energias Renováveis
+Consultor em ESG (Environmental, Social, Governance)
+Especialista em Economia Circular
+Auditor Ambiental
+Educador Ambiental
+
+11. Negócios e Empreendedorismo
+Área voltada para gestão empresarial, startups e inovação em negócios.
+
+Analista de Business Intelligence
+Especialista em Fintechs
+Gestor de Startups
+Consultor em Inovação Corporativa
+Especialista em E-commerce
+
+12. Segurança e Defesa
+Profissões relacionadas a segurança pública, cibernética e defesa nacional.
+
+Analista de Cibersegurança
+Perito Criminal
+Especialista em Inteligência Estratégica
+Gestor de Segurança da Informação
+Engenheiro de Defesa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

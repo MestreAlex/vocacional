@@ -1,0 +1,12 @@
+{
+  "name": "teste-vocacional",
+  "version": "1.0.0",
+  "description": "Teste Vocacional Web App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste Vocacional - Áreas do Conhecimento</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div id="intro" class="intro-section">
+            <h1>Teste Vocacional Profissional</h1>
+            <div class="intro-content">
+                <p class="intro-description">
+                    Este teste foi desenvolvido para ajudar você a descobrir sua vocação profissional 
+                    através de uma análise completa do seu perfil comportamental e suas áreas de interesse.
+                </p>
+
+                <div class="phases-explanation">
+                    <h2>Como funciona o teste?</h2>
+                    
+                    <div class="phase-card">
+                        <h3>Fase 1: Análise Comportamental DISC</h3>
+                        <p>Nesta primeira etapa, você responderá 20 questões que avaliarão seu perfil comportamental em quatro dimensões:</p>
+                        <ul>
+                            <li><strong>D</strong>ominância: Como você lida com desafios</li>
+                            <li><strong>I</strong>nfluência: Como você se relaciona com pessoas</li>
+                            <li><strong>S</strong>egurança: Como você responde a mudanças</li>
+                            <li><strong>C</strong>onformidade: Como você segue regras</li>
+                        </ul>
+                        <p class="phase-time">Tempo estimado: 3-4 minutos</p>
+                    </div>
+
+                    <div class="phase-card">
+                        <h3>Fase 2: Áreas de Interesse</h3>
+                        <p>Na segunda etapa, você responderá 30 questões para identificar suas principais áreas de interesse entre:</p>
+                        <ul>
+                            <li>Ciências Agrárias e Ambientais</li>
+                            <li>Ciências Biológicas e da Saúde</li>
+                            <li>Ciências Exatas e Tecnologia</li>
+                            <li>Ciências Humanas e Sociais</li>
+                            <li>Linguagens, Artes e Comunicação</li>
+                        </ul>
+                        <p class="phase-time">Tempo estimado: 5-6 minutos</p>
+                    </div>
+
+                    <div class="phase-card">
+                        <h3>Fase 3: Profissões Específicas</h3>
+                        <p>Na última etapa, você responderá 20 questões focadas na sua área principal de interesse, 
+                           para identificar as profissões mais compatíveis com seu perfil.</p>
+                        <p class="phase-time">Tempo estimado: 4-5 minutos</p>
+                    </div>
+                </div>
+
+                <div class="test-instructions">
+                    <h2>Dicas para um resultado mais preciso:</h2>
+                    <ul>
+                        <li>Responda com sinceridade - não existe resposta "certa" ou "errada"</li>
+                        <li>Escolha a opção que mais se aproxima da sua realidade atual</li>
+                        <li>Se nenhuma opção parecer adequada, use "Nenhuma destas alternativas"</li>
+                        <li>Reserve um momento tranquilo para fazer o teste sem interrupções</li>
+                    </ul>
+                </div>
+
+                <div class="start-section">
+                    <p>Tempo total estimado: 12-15 minutos</p>
+                    <button onclick="startNewTest()" class="start-button">INICIAR O TESTE</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="questionContainer" class="hidden question-section">
+            <h2 id="questionText"></h2>
+            <p id="progress"></p>
+            <div id="optionsContainer" class="options">
+                <!-- Opções serão inseridas dinamicamente -->
+            </div>
+            <div class="navigation-buttons">
+                <button id="prevButton" onclick="previousQuestion()" class="nav-button">Anterior</button>
+                <button id="nextButton" onclick="nextQuestion()" class="nav-button">Próxima</button>
+            </div>
+        </div>
+
+        <div id="results" class="hidden">
+            <h2>Seus Resultados</h2>
+            <div id="resultAreas"></div>
+            <div id="resultProfessions"></div>
+            <button onclick="resetTest()" class="reset-button">Refazer Teste</button>
+        </div>
+
+        <div id="discResults" class="hidden">
+            <h2>Seu Perfil Comportamental</h2>
+            <div id="discProfile"></div>
+            <div id="discDescription"></div>
+            <button onclick="startAreaPhase()" class="continue-button">Continuar para Áreas</button>
+        </div>
+
+        <div id="sessionDialog" class="hidden">
+            <h2>Teste em Andamento Detectado</h2>
+            <p>Encontramos um teste que não foi finalizado. O que deseja fazer?</p>
+            <button onclick="continuePreviousSession()" class="continue-button">Continuar Teste Anterior</button>
+            <button onclick="startNewTest()" class="new-button">Iniciar Novo Teste</button>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
